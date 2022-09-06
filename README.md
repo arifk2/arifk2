@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Arif Khan
 - 👀 I’m interested in Coding and Problem Solving
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently exporing AWS + cloud
 - 💞️ I’m looking to collaborate on few youtubers
 - 📫 How to reach me mkhan229@hotmail.com
 
